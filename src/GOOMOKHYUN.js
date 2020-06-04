@@ -4,7 +4,7 @@ class soheeTest extends Component {
     render() {
         return (
             <div>
-                <b>상ㄱㅁㅁㄷㄱㅁㄷ교</b>
+                <b>test1638</b>
             </div>
         );
     }
