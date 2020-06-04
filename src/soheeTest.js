@@ -4,7 +4,7 @@ class soheeTest extends Component {
     render() {
         return (
             <div>
-                <b>박소희</b>
+                <b>박소희</b>2
             </div>
         );
     }
